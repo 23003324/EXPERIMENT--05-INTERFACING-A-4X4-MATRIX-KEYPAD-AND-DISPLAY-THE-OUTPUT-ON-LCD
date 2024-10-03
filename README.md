@@ -353,7 +353,8 @@ void key()
 
  
  ## CIRCUIT DIAGRAM (EXPORT THE GRAPHICS TO PDF AND ADD THE SCREEN SHOT HERE): 
- ![Uploading Screenshot 2024-10-03 090510.png…]()
+ ![Screenshot 2024-10-03 090510](https://github.com/user-attachments/assets/78a0ca5b-6c2b-48b2-b6bc-e7e3d2602e24)
+
 
  
 ## Result :
